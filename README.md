@@ -1,4 +1,4 @@
-# Sample-Repo
+# DevOps Glimpse
 Shipping code to production is a complex yet essential process in software development. 
 
 It involves various stages, from development and testing to deployment and monitoring, each critical for ensuring that the end product is stable, efficient, and meets user needs. 
